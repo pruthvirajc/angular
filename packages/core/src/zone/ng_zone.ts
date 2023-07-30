@@ -1,4 +1,7 @@
-/**
+/**<hello-world>
+    <h2>Hello World</h2>
+    <p>This is my first component!</p>
+</hello-world>
  * @license
  * Copyright Google LLC All Rights Reserved.
  *
